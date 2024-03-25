@@ -1,10 +1,5 @@
-# :construction: README em construção ! :construction:
-<!-- Olá, Tryber!
-Esse é apenas um arquivo inicial para o README do seu projeto.
-É essencial que você preencha esse documento por conta própria, ok?
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
-:warning: IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
--->
+# 🛢️ Projeto - MySQL One For All
+Neste projeto, o desafio consistiu em modelar e normalizar um conjunto de tabelas relacionais baseadas em uma planilha fictícia do Spotify. Através da aplicação das regras de negócio especificadas, desenvolvi um conjunto de tabelas normalizadas que representam o banco de dados do SpotifyClone.
+
+## 💻 Tecnologia Utilizada
+* SQL - Desenvolvi queries eficientes para resolver cada desafio, explorando os recursos do banco de dados MySQL.
